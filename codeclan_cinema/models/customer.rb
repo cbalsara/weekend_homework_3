@@ -50,6 +50,10 @@ class Customer
   
   #update customers set name = 'TIMAEE' where funds = 300;
 
+
+ #    DELETE METHOD
+ # delete from tickets where customer_id = 67;
+
 end 
 
 
